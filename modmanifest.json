@@ -1,0 +1,7 @@
+{
+  "UniqueModName": "NBKRedSpy_QM_SlowerHunger",
+  "Assemblies": [
+    "QM_SlowerHunger.dll"
+  ],
+  "Dependencies": []
+}
