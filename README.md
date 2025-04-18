@@ -4,7 +4,7 @@
 
 # Configuration
 
-The configuration file will be created on the first game run and can be found at `%AppData%\..\LocalLow\Magnum Scriptum Ltd\Quasimorph\QM_SlowerHunger\config.json`.
+The configuration file will be created on the first game run and can be found at `%AppData%\..\LocalLow\Magnum Scriptum Ltd\Quasimorph_ModConfigs\QM_SlowerHunger\config.json`.
 
 |Name|Default|Description|
 |--|--|--|
